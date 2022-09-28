@@ -1,0 +1,155 @@
+li a:hover {
+    color: #1111;
+}
+
+.customize-block>h2 {
+    font-family: Courier, sans-serif;
+    text-transform: uppercase;
+  }
+  
+  .customize-block>h2 {
+    font-family: Courier, sans-serif;
+    text-transform: uppercase;
+    font-size: 18px;
+  }
+  
+
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    
+}
+  
+  .customize-block>.customize-variants {
+    list-style: none;
+  }
+  
+  .customize-block>.customize-variants>li {
+    border: 1px black solid;
+  }
+  
+  .wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .wrapper>.header {
+    height: 80px;
+    width: 100%;
+    vertical-align: middle;
+  }
+  
+  .wrapper>.header>.nav>a {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  
+  .wrapper>.header>.nav {
+    display: inline-block;
+    vertical-align: middle;
+    list-style: none;
+    display: inline-block;
+  }
+  
+  .wrapper>.header>.nav>li {
+    float: left;
+    padding-left: 10px;
+  }
+  
+  .wrapper>.header>.nav-right {
+    float: right;
+    display: inline-block;
+    vertical-align: middle;
+  }
+  #btn{
+    background-color: black;
+    color: white;
+    height: 50px;
+    width: 300px;
+  }
+  #btn:hover{
+    transform: scale(0.9);
+  }
+  .customize-block-settings>h4 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+  }
+  .customize-block-settings>p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10px;
+  }
+  .customize-block-settings>.block-settings{
+    display: block;
+  }
+
+  .customize-block>button{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 200px;
+  }
+  .customize-block>button:hover{
+    transform: scale(0.9);
+  }
+  .customize-block>a>button{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 200px;
+  }
+  .customize-block>a>button:hover{
+    transform: scale(0.9);
+  }
+  .customize-block>.customize-block-settings>.block-settings>img{
+    transform: scale(0.9);
+  }
+  #block-error{
+    background-color: slategray;
+    height: 300px;
+    width: 300px;
+  }
+  #block-error>h1{
+    font-size: 15;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  .customize-block>a>button{
+    background-color: blue;
+    color: white;
+    height: 50px;
+    width: 200px;
+  }
+  .customize-block>a>button:hover{
+    transform: scale(0.9);
+  }
+  .white{
+    background-color: white;
+    color: black;
+    height: 50px;
+    width: 200px;
+  }
+  .white:hover{
+    transform: scale(0.9);
+  }
+  .customize-block>a>span{
+    font-size: 13px;
+    font-family: 'Times New Roman', Times;
+    color: black;
+  }
+  a{
+    text-decoration:none;
+  }
